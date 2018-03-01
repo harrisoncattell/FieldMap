@@ -8,6 +8,6 @@ A interpolation and mapping function for pH values. This implementation uses a c
 
 To implement this function, use the code `FieldMap(Sample Data, Scalling size, De-limiter*)`
 
-This functions uses the 'interp2' matlab function which is a 2D interpolation function, to read more about this function, visit the [MathWorks Documentation] (https://uk.mathworks.com/help/matlab/ref/interp2.html)
+This functions uses the 'interp2' matlab function which is a 2D interpolation function, to read more about this function, visit the [MathWorks Documentation](https://uk.mathworks.com/help/matlab/ref/interp2.html)
 
 *De-limiter is the symbol that is used in the sample data file to seperate the individual items of data
