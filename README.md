@@ -1,4 +1,4 @@
-# IntMap2D
+# FieldMap
 
 Created by Harrison Cattell, 2018
 
