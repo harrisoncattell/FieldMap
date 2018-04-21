@@ -1,0 +1,1 @@
+FieldMap('C:\Users\Harrison_Cattell\Desktop\sample.txt', 'C:\Users\Harrison_Cattell\Desktop\export2.jpg', 7, 2);
