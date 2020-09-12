@@ -105,7 +105,7 @@ function []= FieldMap(Sample_Data, Output_Location, Scalling_Value, whatColourMa
             colorbar
             caxis([1 14]);
             saveas(gcf, Output_Location);
-
+This is a bug
         end
 
     end
